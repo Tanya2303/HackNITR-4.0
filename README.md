@@ -7,9 +7,9 @@ People and instructors are stranded at home due to the pandemic, and it has been
 ## 💻 What it does
 
 On Edu Lab users can:
-- Learn with the help of 3D Models.
-- Publish bolgs.
-- Buys school needs.
+- Read the blogs about educational topics.
+- Post blogs about educational topics.
+- Buys school accessories.
 - Solve each other doubts in the chatroom.
 - Make short notes with the help of Open AI.
 
