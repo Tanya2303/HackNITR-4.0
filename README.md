@@ -1,7 +1,8 @@
 # Edu Hub
 
 ## 💡 Inspiration
-Pupils and instructors are stranded at home due to the pandemic, and it has been established that e-learning is a modern, effective way to instruct and engage students. There are several online classes offered to students. And as everyone knows, online classes are boring, the concepts taught cannot be retaught, and practicals are crucial for disciplines like chemistry and others that call for hands-on application and visualisation. Students from any background can visit the site and learn numerous ideas with the use of 3D Models, which improves their understanding easier and faster. Edu Hub is an AR-based mobile application. Through full immersion in the subject content and visualisation, Edu Hub can assist students in achieving better results.
+
+People and instructors are stranded at home due to the pandemic, and it has been established that e-learning is a modern, effective way to instruct and engage students. Edu Hub is an AR-based mobile application. Through full immersion in the subject content and visualization, Edu Hub can assist students in achieving better results.
 
 ## 💻 What it does
 
