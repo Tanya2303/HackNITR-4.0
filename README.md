@@ -1,6 +1,7 @@
-# HackNITR-4.0
+# Edu Hub
 
 ## 💡 Inspiration
+Pupils and instructors are stranded at home due to the pandemic, and it has been established that e-learning is a modern, effective way to instruct and engage students. There are several online classes offered to students. And as everyone knows, online classes are boring, the concepts taught cannot be retaught, and practicals are crucial for disciplines like chemistry and others that call for hands-on application and visualisation. Students from any background can visit the site and learn numerous ideas with the use of 3D Models, which improves their understanding easier and faster. Edu Hub is an AR-based mobile application. Through full immersion in the subject content and visualisation, Edu Hub can assist students in achieving better results.
 
 ## 💻 What it does
 
@@ -24,3 +25,7 @@ I have to use Velo by Wix to create a website. With Wix Velo, a full-stack devel
 - Users of Wix: We may use it to provide user functionality to the store in addition to adding user functionality to the website.
 
 ## Challenges I ran into
+- Because we had to implement the project by a certain date, finishing the project was difficult.
+- I had to learn how to use Wix because I am a new users.
+- The Wix Velo platform required some instruction on our part.
+- Implementing notes page was bit difficult.
